@@ -1,0 +1,27 @@
+# Visual Studio and IDE files
+.vs/
+.vscode/
+*.user
+*.sln.iml
+
+# Build and test results
+bin/
+obj/
+TestResults/
+
+# Coverage
+coverage.cobertura.xml
+coverage.opencover.xml
+
+# NuGet
+packages/
+*.nupkg
+
+# GitHub workflows and configurations
+.github/
+
+# OS files
+.DS_Store
+Thumbs.db
+/.vs/ApiDemo/CopilotIndices/17.14.1368.60722/CodeChunks.db
+/.vs/ApiDemo/CopilotIndices/17.14.1368.60722/SemanticSymbols.db
