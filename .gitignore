@@ -1,0 +1,25 @@
+# Visual Studio and IDE files
+.vs/
+.vscode/
+*.user
+*.sln.iml
+
+# Build and test results
+bin/
+obj/
+TestResults/
+
+# Coverage
+coverage.cobertura.xml
+coverage.opencover.xml
+
+# NuGet
+packages/
+*.nupkg
+
+# GitHub workflows and configurations
+.github/
+
+# OS files
+.DS_Store
+Thumbs.db
