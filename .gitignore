@@ -23,3 +23,5 @@ packages/
 # OS files
 .DS_Store
 Thumbs.db
+/.vs/ApiDemo/CopilotIndices/17.14.1368.60722/CodeChunks.db
+/.vs/ApiDemo/CopilotIndices/17.14.1368.60722/SemanticSymbols.db
